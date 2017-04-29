@@ -1,12 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
   <project name="TheMuppets/proprietary_vendor_samsung" path="vendor/samsung" remote="github" />
-  <project name="lirokoa/android_device_samsung_n8013" path="device/samsung/n8013" remote="github" version="cm-14.1" />
-  <project name="LineageOS/android_device_samsung_n80xx-common" path="device/samsung/n80xx-common" remote="github" version="cm-14.1" />
-  <project name="LineageOS/android_device_samsung_smdk4412-common" path="device/samsung/smdk4412-common" remote="github" version="cm-14.1" />
-  <project name="LineageOS/android_hardware_samsung" path="hardware/samsung" remote="github" version="cm-14.1" />
-  <project name="LineageOS/android_kernel_samsung_smdk4412" path="kernel/samsung/smdk4412" remote="github" version="cm-14.1" />
-  <project name="LineageOS/android_packages_apps_SamsungServiceMode" path="packages/apps/SamsungServiceMode" remote="github" />
-  <project name="LineageOS/android_external_stlport" path="external/stlport" remote="github" />
-  <project name="LineageOS/android_device_samsung_i9300" path="device/samsung/i9300" remote="github" />
+  <project name="jf-navica/android_device_samsung_n8013" path="device/samsung/n8013" remote="github" version="cm-14.1" />
+  <project name="jf-navica/android_device_samsung_n80xx-common" path="device/samsung/n80xx-common" remote="github" version="cm-14.1" />
+  <project name="jf-navica/android_device_samsung_smdk4412-common" path="device/samsung/smdk4412-common" remote="github" version="cm-14.1" />
+  <project name="jf-navica/android_hardware_samsung" path="hardware/samsung" remote="github" version="cm-14.1" />
+  <project name="jf-navica/android_kernel_samsung_smdk4412" path="kernel/samsung/smdk4412" remote="github" version="cm-14.1" />
+  <project name="jf-navica/android_packages_apps_SamsungServiceMode" path="packages/apps/SamsungServiceMode" remote="github" />
 </manifest>
